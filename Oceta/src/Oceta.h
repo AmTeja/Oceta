@@ -1,7 +1,7 @@
 #pragma once
 
 //For use by Oceta applications
-#include <stdio.h>
+#include "Oceta/Log.h"
 #include "Oceta/Application.h"
 
 // ------EntryPoint--------

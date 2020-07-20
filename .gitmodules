@@ -1,3 +1,9 @@
 [submodule "Oceta/vendor/spdlog"]
 	path = Oceta/vendor/spdlog
 	url = https://github.com/gabime/spdlog
+[submodule "Hazel/vendor/GLFW"]
+	path = Hazel/vendor/GLFW
+	url = https://github.com/TheCherno/glfw
+[submodule "Oceta/vendor/GLFW"]
+	path = Oceta/vendor/GLFW
+	url = https://github.com/TheCherno/glfw
