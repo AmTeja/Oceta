@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{BC1678BD-FCDE-422F-8710-E550232F20AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Oceta", "Oceta\Oceta.vcxproj", "{560FB5E6-4F37-40AC-82BD-F47C38B57B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560FB5E6-4F37-40AC-82BD-F47C38B57B33}.Debug|x64.ActiveCfg = Debug|x64
+		{560FB5E6-4F37-40AC-82BD-F47C38B57B33}.Debug|x64.Build.0 = Debug|x64
+		{560FB5E6-4F37-40AC-82BD-F47C38B57B33}.Release|x64.ActiveCfg = Release|x64
+		{560FB5E6-4F37-40AC-82BD-F47C38B57B33}.Release|x64.Build.0 = Release|x64
+		{BC1678BD-FCDE-422F-8710-E550232F20AA}.Debug|x64.ActiveCfg = Debug|x64
+		{BC1678BD-FCDE-422F-8710-E550232F20AA}.Debug|x64.Build.0 = Debug|x64
+		{BC1678BD-FCDE-422F-8710-E550232F20AA}.Release|x64.ActiveCfg = Release|x64
+		{BC1678BD-FCDE-422F-8710-E550232F20AA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5B4025-A06B-4FD8-98EA-9D24F0FB17EF}
+	EndGlobalSection
+EndGlobal
